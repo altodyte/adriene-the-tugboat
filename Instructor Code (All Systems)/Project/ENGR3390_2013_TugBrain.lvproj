@@ -97,6 +97,9 @@
 		<Item Name="G_Boat Speed.vi" Type="VI" URL="../G_Boat Speed.vi"/>
 		<Item Name="UDP example.vi" Type="VI" URL="../../Garland 2013 Code for Dave Old/UDP Receive Code/UDP example.vi"/>
 		<Item Name="PC Keyboard Control.vi" Type="VI" URL="../PC Keyboard Control.vi"/>
+		<Item Name="UMB_buildString.vi" Type="VI" URL="../Upper Midbrain/UMB_buildString.vi"/>
+		<Item Name="UMB_Arbiter.vi" Type="VI" URL="../Upper Midbrain/UMB_Arbiter.vi"/>
+		<Item Name="UMB_ForebrainBehavior.vi" Type="VI" URL="../Upper Midbrain/UMB_ForebrainBehavior.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
@@ -203,8 +206,10 @@
 			<Item Name="PC parse the data.vi" Type="VI" URL="../UDP Receive Code/PC parse the data.vi"/>
 			<Item Name="WindDir.vi" Type="VI" URL="../WindDir.vi"/>
 			<Item Name="WindSpeed.vi" Type="VI" URL="../WindSpeed.vi"/>
-			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
 			<Item Name="UpperMidbrain.vi" Type="VI" URL="../UpperMidbrain.vi"/>
+			<Item Name="_LaunchHelp.vi" Type="VI" URL="/&lt;helpdir&gt;/_LaunchHelp.vi"/>
+			<Item Name="behaviorOutput_t.ctl" Type="VI" URL="../../../NINJA Code/Tugboat/Robo_Programs/behaviorOutput_t.ctl"/>
+			<Item Name="behaviorData_t.ctl" Type="VI" URL="../../../NINJA Code/Tugboat/Robo_Programs/behaviorData_t.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
