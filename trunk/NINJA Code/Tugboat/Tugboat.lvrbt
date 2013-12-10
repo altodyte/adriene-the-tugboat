@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Robo_Programs" Type="Folder">
+		<Item Name="nxt main.vi" Type="VI" URL="../Robo_Programs/nxt main.vi"/>
 		<Item Name="team team nxt main.vi" Type="VI" URL="../Robo_Programs/team team nxt main.vi"/>
 	</Item>
 	<Item Name="IntLibraryData" Type="LibraryData">
